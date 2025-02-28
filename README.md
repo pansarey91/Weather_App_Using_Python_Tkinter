@@ -38,8 +38,8 @@ python app.py
 
 ## 🎨 Screenshots
 ![](./Screenshots/image.png)
-![](./Screenshots/image copy.png)
-![](./Screenshots/image copy 2.png)
-![](./Screenshots/image copy 3.png)
-![](./Screenshots/image copy 4.png)
-![](./Screenshots/image copy 5.png)
+![](./Screenshots/imagecopy.png)
+![](./Screenshots/imagecopy2.png)
+![](./Screenshots/imagecopy3.png)
+![](./Screenshots/imagecopy4.png)
+![](./Screenshots/imagecopy5.png)
