@@ -37,4 +37,9 @@ python app.py
 ```
 
 ## 🎨 Screenshots
-(Add images of your app interface here)
+![](./Screenshots/image.png)
+![](./Screenshots/image copy.png)
+![](./Screenshots/image copy 2.png)
+![](./Screenshots/image copy 3.png)
+![](./Screenshots/image copy 4.png)
+![](./Screenshots/image copy 5.png)
