@@ -129,7 +129,7 @@ class Weather(Tk):
     def __get_weather(self):
         try:
             # getting the weather information
-            API_KEY='6db66cf60fba71e8d77a8679063ec83d'
+            API_KEY='Secret'
             city=self.search.get()
             data=f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}'
             weather=requests.get(data).json()
@@ -209,7 +209,7 @@ class Weather(Tk):
 
     def show_graph(self):
         city = self.search.get().strip()
-        API_KEY = '6db66cf60fba71e8d77a8679063ec83d'
+        API_KEY = 'Secret'
 
         if not city:
             messagebox.showerror("Error", "Please enter a valid city name.")
